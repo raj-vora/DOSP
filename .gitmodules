@@ -4,3 +4,9 @@
 [submodule "pushsum_gossip"]
 	path = pushsum_gossip
 	url = https://github.com/raj-vora/pushsum_gossip
+[submodule "twittEr"]
+	path = twittEr
+	url = https://github.com/raj-vora/twittEr
+[submodule "bitcoin_minEr"]
+	path = bitcoin_minEr
+	url = https://github.com/raj-vora/bitcoin_minEr
