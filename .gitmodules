@@ -1,0 +1,6 @@
+[submodule "chord"]
+	path = chord
+	url = https://github.com/raj-vora/chord
+[submodule "pushsum_gossip"]
+	path = pushsum_gossip
+	url = https://github.com/raj-vora/pushsum_gossip
